@@ -3,4 +3,6 @@
 echo "my first bash program"
 echo "this is another line"
 echo "The time is $(date)"
+echo "hello again"
+
 
